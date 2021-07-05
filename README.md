@@ -1,6 +1,6 @@
 # Science_Fiction_Collection
 
-This Java program let's you execute some operations on a collection of romances.
+This Java program let's you execute some operations on a list of romances.
 
 It also has an option to dump on a .txt file all the elements in the list of romances if needed.
 
