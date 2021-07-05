@@ -1,4 +1,4 @@
-package esCollezione;
+package esCollection;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

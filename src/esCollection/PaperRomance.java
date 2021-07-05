@@ -1,4 +1,4 @@
-package esCollezione;
+package esCollection;
 
 public class PaperRomance extends Romance {
 
